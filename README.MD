@@ -1,7 +1,7 @@
 # Welcome to Armand's C++ Sorting Tutorial
 
 To run this file we need a G++ or a GCC compiler.
-For this i used a g++ compiler.
+For this I used a G++ compiler.
 
 To compile:
 `g++ -o filename sort.cpp`

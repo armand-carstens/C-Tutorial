@@ -5,37 +5,37 @@ These notes are what I have gathered in my first year on university.
 Go through the notes to determine what you understand and don't understand.
 
 ### How to start:
-Linux: 
+### Linux: 
   
   1. Download an IDE, I prefer VSCode, however there are many.
       
-       [Visual Studio Code](https://code.visualstudio.com/)
+      [Visual Studio Code](https://code.visualstudio.com/)
       
-       [Atom](https://atom.io/)
+      [Atom](https://atom.io/)
       
-       [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+      [IntelliJ IDEA](https://www.jetbrains.com/idea/)
   
   2. Download a compiler to be able to read your C++ code.
       
-      `$ sudo apt install build-essential` 
+     `sudo apt install build-essential` 
 
-Windows:
+### Windows:
  
  1. Download an IDE, I prefer VSCode, however there are many.
       
-       [Visual Studio Code](https://code.visualstudio.com/)
+   [Visual Studio Code](https://code.visualstudio.com/)
       
-       [Atom](https://atom.io/)
+   [Atom](https://atom.io/)
       
-       [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+   [IntelliJ IDEA](https://www.jetbrains.com/idea/)
  
  2. Download a compiler:
       
-       [Instructions](https://www.freecodecamp.org/news/how-to-install-c-and-cpp-compiler-on-windows/)
+   [Instructions](https://www.freecodecamp.org/news/how-to-install-c-and-cpp-compiler-on-windows/)
 
-MacOS:
+### MacOS:
 
-       [Youtube Video](https://www.youtube.com/watch?v=0z-fCNNqfEg)
+   [Youtube Video](https://www.youtube.com/watch?v=0z-fCNNqfEg)
 
 ## 2.) Sort.cpp 
 
